@@ -1,0 +1,28 @@
+name: Let’s talk
+favicon: null
+layout_spectrum: 0.6211895109154284
+typography_spectrum: 0.1789399932604283
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9405294784810394
+  lightness: 0.19451345223933458
+  saturation: 0.42988713341765106
+  rhythmicContrast: 0.3586315668653697
+purpose: []
