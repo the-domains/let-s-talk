@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Let’s talk]]></title>
         <description><![CDATA[Let’s talk]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/let-s-talk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Dec 2015 11:11:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Dec 2015 11:39:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/let-s-talk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e7bd112-a901-41c3-a4f5-21e3dfb1f527.jpg">]]></description>
-            <link>undefined0a4d808f-9a15-4a4a-96a7-5a6b46b25cab/index.html</link>
+            <description><![CDATA[<p>Bringing friends together.</p>]]></description>
+            <link>https://thegrid.ai/let-s-talk/0a4d808f-9a15-4a4a-96a7-5a6b46b25cab/index.html</link>
             <guid isPermaLink="false">0a4d808f-9a15-4a4a-96a7-5a6b46b25cab</guid>
-            <pubDate>Wed, 30 Dec 2015 11:10:53 GMT</pubDate>
+            <pubDate>Wed, 30 Dec 2015 11:39:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
